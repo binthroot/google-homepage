@@ -1,0 +1,49 @@
+.navbar {
+	height: 30px;
+	width: 100%;
+	top: 0;
+	margin: 15px 0;
+}
+
+nav ul {
+	float: right;
+	margin: 15px 20px 0 0;
+}
+
+nav ul li {
+	display: inline;
+	margin: 0 15px 0 0;
+}
+
+.dots {
+	margin-left: 5px;
+	margin-right: 40px;
+}
+
+.apps {
+	display: inline;
+	height: 4px;
+	width: 4px;
+	background: #777;
+	position: absolute;
+}
+
+#sq2 {margin-left: 6px;}
+#sq3 {margin-left: 12px;}
+#sq4 {margin-top:6px;}
+#sq5 {margin-top:6px; margin-left: 6px;}
+#sq6 {margin-top:6px;margin-left: 12px;}
+#sq7 {margin-top:12px;}
+#sq8 {margin-top:12px;margin-left:6px;}
+#sq9 {margin-top:12px;margin-left: 12px;}
+
+.content {
+	max-width: 750px;
+	margin: 200px auto;
+}
+
+.logo {
+	margin: auto;
+	max-width: 280px;
+	font-size: 100px;
+}
